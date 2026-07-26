@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 🔭Building AI-powered full stack web applications using React, FastAPI, PostgreSQL, and LangGraph.<br>👯I'm looking to collaborate on Open- source full stack projects, AI applications, and developer tools.<br>🌱 I'm currently learning - LangGraph, Docker, System Design, and Cloud Deployment.<br>💬 Ask me about- React, FastAPI, JavaScript, Python, PostgreSQL, REST APIs, and AI integration.<br>
 
@@ -12,9 +11,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=adithyaparmar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=adithyaparmar&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=adithyaparmar&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://komarev.com/ghpvc/?username=adithyaparmar&icon=4&color=4)](https://visitcount.itsvg.in)
